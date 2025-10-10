@@ -1,0 +1,1 @@
+Perform an existing content audit for thebridesofoklahoma.com. Ignore all wedding-vendors pages and the home page.
