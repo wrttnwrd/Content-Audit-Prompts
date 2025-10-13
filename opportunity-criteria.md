@@ -1,4 +1,3 @@
-
 ## Opportunity Criteria
 
 I may provide additional criteria in my prompt, but always consider these factors:
