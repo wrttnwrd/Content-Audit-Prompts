@@ -12,7 +12,7 @@ ONLY USE THE ZAPIER MCP SERVER FOR THIS PROJECT. Do not attempt to use any other
 
 ## Guidelines
 
-1. If I ask for DataForSEO data, USE THE ZAPIER MCP SERVER. Don't try to access the API by writing custom code
+1. If I ask for DataForSEO data, USE THE ZAPIER MCP SERVER. Don't try to access the API by writing custom code. If you have any problems with DataForSEO Zapier API calls, try alternate calls via the Zapier API. It often works if you change to domain-wide requests, rather than page-by-page.
 2. Any time you access Google Drive or Google Sheets, USE THE ZAPIER MCP SERVER. 
 3. Keep answers succinct
 4. Provide all findings and notes as artifacts, in Markdown
