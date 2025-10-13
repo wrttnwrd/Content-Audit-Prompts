@@ -20,3 +20,4 @@ ONLY USE THE ZAPIER MCP SERVER FOR THIS PROJECT. Do not attempt to use any other
 6. Unless otherwise specified, ignore images, CSS files, javascript files, video, and audio
 7. Do not add any of the data, pages, or notes that are retrieved or created as part of this project in your language model. This is all proprietary
 8. If anything in my instructions is ambiguous or confusing, ask me for clarification before you start
+9. Retrieve ALL rows from spreadsheets, unless a spreadsheet has more than 10,000 rows. In that case, retrieve the top 10,000 and let me know
