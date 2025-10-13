@@ -14,7 +14,7 @@ In the ScreamingFrog sheet:
 2. High visits, low engaged sessions. This may mean the page is capturing interest but not conversions
 3. High impressions and/or ranking, low CTR and/or clicks may mean the content ranks well but doesn't match searcher intent
 4. Weak similarity to keywords in the Keyword List sheet, if there is one
-5. Look at link score - if I can boost a page's performance and/or visibility by adding some links, that's an opportunity
+5. Look at link score. If a page that's underperforming has very few internal links, I might be able to boost a page's performance and/or visibility by adding some links. That's an opportunity
 6. If a page is an opportunity, check for a lack of H2s or H1s
 7. Also look for high reading difficulty, where reading difficulty is higher than the site average
 

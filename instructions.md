@@ -6,7 +6,7 @@ ONLY USE THE ZAPIER MCP SERVER FOR THIS PROJECT. Do not attempt to use any other
 2. That subfolder name will match the domain name I provide
 3. In that folder will be two sheets: "screamingfrog" and "Lost Traffic By Page"
 4. Looking across all data, find content that, if improved, provides a major opportunity for growth. See "opportunity-criteria.md" for specifics
-5. Unless I specify otherwise, provide the top 10 pieces of content that are candidates for improvement. The top 10 should offer the the most relative growth and the highest potential traffic, engagement, and/or organic/earned media visibility
+5. Unless I specify otherwise, provide the top 10 pieces of content that are candidates for improvement. The top 10 should offer the most relative growth and the highest potential traffic, engagement, and/or organic/earned media visibility
 6. Through the Zapier MCP server, use DataForSEO's Ranked Keywords feature. Find the highest-volume keywords for each opportunity page. Include those keywords, the page's current ranking, and the search volume for those phrases, in your analysis.
 7. If the sheet "Keyword List" exists, take the keywords from that sheet, compare it to the ScreamingFrog embeddings, and then tell me the two keywords to which each opportunity page is most similar.
 
