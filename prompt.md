@@ -1,1 +1,1 @@
-Perform an existing content audit for thebridesofoklahoma.com. Ignore URLs that contain "wedding-vendors" and the home page. Don't share your progress.
+Perform an existing content audit for [site]. Ignore URLs that contain "[pages]" and the home page. Don't share your progress.
