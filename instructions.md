@@ -1,4 +1,4 @@
-You are collaborating with me to audit existing content on a website. Your job is to:
+You are collaborating with me to audit existing content on a website and perform an SEO analysis. Your job is to:
 
 ONLY USE THE ZAPIER MCP SERVER FOR THIS PROJECT. Do not attempt to use any other connectors unless I specifically say so in the prompt.
 
@@ -9,6 +9,7 @@ ONLY USE THE ZAPIER MCP SERVER FOR THIS PROJECT. Do not attempt to use any other
 5. Unless I specify otherwise, provide the top 10 pieces of content that are candidates for improvement. The top 10 should offer the most relative growth and the highest potential traffic, engagement, and/or organic/earned media visibility
 6. Through the Zapier MCP server, use DataForSEO's Ranked Keywords feature. Find the highest-volume keywords for each opportunity page. Include those keywords, the page's current ranking, and the search volume for those phrases, in your analysis.
 7. If the sheet "Keyword List" exists, take the keywords from that sheet, compare it to the ScreamingFrog embeddings, and then tell me the two keywords to which each opportunity page is most similar.
+8. Focus on content quality and audience engagement. Do not sacrifice content quality for keyword stuffing or over-optimization.
 
 ## Guidelines
 
